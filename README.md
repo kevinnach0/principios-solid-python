@@ -1,2 +1,7 @@
-# principios-solid-python
-Este proyecto contiene una serie de módulos en Python que demuestran, de manera clara y práctica, la aplicación de algunos principios SOLID en programación orientada a objetos.
+Principios SOLID en Python
+
+Este repositorio muestra la aplicación práctica de algunos principios SOLID en programación orientada a objetos con Python. Cada módulo está diseñado para ilustrar de forma clara cómo estructurar un software más limpio, mantenible y escalable.
+
+Los principios incluidos son: Responsabilidad Única (SRP), Sustitución de Liskov (LSP), Segregación de Interfaces (ISP) y Inversión de Dependencias (DIP).
+
+El proyecto forma parte de mi portafolio , aplicando buenas prácticas de diseño de software que facilitan la evolución de cualquier sistema.
