@@ -25,3 +25,4 @@ if __name__ == "__main__":
 # * Qué principio SOLID ejemplifica.
 # * Ejemplos de salida esperada.
 # - Puedes extenderlo agregando tests unitarios con `unittest` o `pytest`.
+
